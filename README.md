@@ -1,4 +1,4 @@
-# ⚖️ Crew-AI Legal Assistant
+# ⚖️ Multi-agent Legal Assistant
 
 An **AI-powered Legal Assistant** built using **multi-agent architecture** with **CrewAI**, designed to analyze legal scenarios and identify applicable **Indian Penal Code (IPC) sections**, retrieve **legal precedents**, and generate **legal drafts**.
 
