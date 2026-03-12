@@ -88,8 +88,7 @@ Legal Drafter Agent → Structured Legal Output
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/crew-ai-legal-assistant.git
-cd crew-ai-legal-assistant
+git clone https://github.com/Sparshtaparia/AI_Legal_Assistant.git
 ```
 
 ---
@@ -191,21 +190,5 @@ It **does not constitute legal advice**. Always consult a qualified legal profes
 
 ---
 
-# 🔮 Future Improvements
 
-* Add **CrPC and Evidence Act**
-* Integrate **Indian Kanoon case law**
-* Add **charge prediction models**
-* Build **web UI for public interaction**
-* Add **court judgment summarization**
-
----
-
-# 👨‍💻 Author
-
-**Sparsh Taparia**
-
-AI • Software Engineering • Legal AI Systems
-
----
 
