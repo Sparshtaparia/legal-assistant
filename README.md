@@ -1,5 +1,3 @@
-Based on your **actual project structure** and the fact that you are using **Groq LLM API** and **Tavily search API**, here is a **correct, professional README tailored to your repository**.
-
 ---
 
 # ⚖️ Crew-AI Legal Assistant
@@ -84,45 +82,6 @@ Legal Drafter Agent → Structured Legal Output
 | dotenv                 | Environment configuration      |
 
 ---
-
-# 📂 Project Structure
-
-```
-CREW-AI LEGAL ASSISTANT
-│
-├── agents
-│   ├── case_intake_agent.py
-│   ├── ipc_section_agent.py
-│   ├── legal_drafter_agent.py
-│   └── legal_precedent_agent.py
-│
-├── tasks
-│   ├── case_intake_task.py
-│   ├── ipc_section_task.py
-│   ├── legal_drafter_task.py
-│   └── legal_precedent_task.py
-│
-├── tools
-│   ├── ipc_sections_search_tool.py
-│   └── legal_precedent_search_tool.py
-│
-├── ipc-json
-│   └── ipc_sections.json
-│
-├── chroma_vectordb
-│   └── (vector database files)
-│
-├── ipc_vectordb_builder.py
-├── query_vectordb.py
-│
-├── crew.py
-├── main.py
-├── app.py
-│
-├── .env
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -210,26 +169,6 @@ When I confronted him, he threatened me with a knife and ran away.
 Which IPC sections apply?
 ```
 
----
-
-# 📤 Example Output
-
-```json
-[
-  {
-    "section": "IPC Section 441",
-    "section_title": "Criminal Trespass"
-  },
-  {
-    "section": "IPC Section 379",
-    "section_title": "Theft"
-  },
-  {
-    "section": "IPC Section 506",
-    "section_title": "Criminal Intimidation"
-  }
-]
-```
 
 ---
 
@@ -272,8 +211,3 @@ AI • Software Engineering • Legal AI Systems
 
 ---
 
-✅ This README now matches your **actual project architecture, agents, tools, APIs, and folder structure**.
-
----
-
-If you want, I can also show you **3 improvements that will make this project look like a serious AI research project (the kind that impresses recruiters or professors)**.
